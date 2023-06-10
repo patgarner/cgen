@@ -6,7 +6,7 @@ CGEN is a utility for quickly setting up new C projects. It generates a new dire
 
 ## Features
 
-- Automates the creation of a new C program with a `main.c` file and a Makefile.
+- Automates the creation of a new C program with a new directory, a `main.c` file, and a Makefile.
 - For the special case of creating the CGEN program itself, it embeds the source code and Makefile in the generated `main.c` for easy modifications in the future.
 
 ## Prerequisites
