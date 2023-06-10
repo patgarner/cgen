@@ -1,4 +1,4 @@
-# CGEN - Your Basic C Project Boilerplate Generator
+# cgen - Your Basic C Project Boilerplate Generator
 
 Hey there! I create a lot of small C projects and I couldn't find a super simple tool to automate the process of create the basic boilerplate: create a directory, a Makefile, and a simple main.c.
 
@@ -58,3 +58,4 @@ If you want to contact me, you can reach me at patgarner@gmail.com
 This project is licensed under the MIT License
 
 Please note that CGEN is provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. Use it at your own risk!
+
