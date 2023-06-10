@@ -24,8 +24,7 @@ To install CGEN, follow these steps:
 
 1. Clone the repository
 2. Change into the directory containing the project
-3. Run make
-4. (Optional) Install to a directory in your PATH
+3. Run make install
 
 ## Using CGEN
 
