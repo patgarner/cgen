@@ -1,6 +1,6 @@
 # cgen - Your Basic C Project Boilerplate Generator
 
-Hey there! I create a lot of small C projects and I couldn't find a super simple tool to automate the process of create the basic boilerplate: create a directory, a Makefile, and a simple main.c.
+Hey there! I create a lot of small C projects and I couldn't find a super simple tool to automate the process of creating the basic boilerplate: a directory, a Makefile, and a simple main.c.
 
 CGEN is a utility for quickly setting up new C projects. It generates a new directory with a base C source file and a Makefile. It eliminates the need to manually write the boilerplate code for a new C program.
 
