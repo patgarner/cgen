@@ -38,16 +38,6 @@ This will create a directory named `<program_name>`, and in it a Makefile and `m
 
 This will create a directory named `cgen`, and in it a Makefile and `main.c` that, when compiled and run, will reproduce the `cgen` program. Note that only in this case is the Makefile and source code embedded in `main.c`.
 
-## Contributing to CGEN
-
-To contribute to CGEN, follow these steps:
-
-1. Fork this repository.
-2. Create a branch.
-3. Make your changes and commit them.
-4. Push to the original branch.
-5. Create the pull request.
-
 ## Contact
 
 If you want to contact me, you can reach me at patgarner@gmail.com
