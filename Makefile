@@ -1,3 +1,4 @@
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
 CC=gcc
 CFLAGS=-I.
 
